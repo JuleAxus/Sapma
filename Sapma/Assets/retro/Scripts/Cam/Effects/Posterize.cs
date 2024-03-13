@@ -6,16 +6,18 @@ namespace Assets.Scripts.Cam.Effects {
 	[AddComponentMenu("Image Effects/Custom/Posterize")]
 	public class Posterize : MonoBehaviour {
 		private Material m_material;
-		private Shader shader;
+		public Shader shader;
 		public int[] factors;
 		public int redComponent = 8;
 		public int greenComponent = 8;
 		public int blueComponent = 8;
 
+
+
 		private Material material {
 			get {
 				if (m_material == null) {
-					shader = Shader.Find("Oxysoft/Posterize");
+				
 					m_material = new Material(shader) {hideFlags = HideFlags.DontSave};
 				}
 
@@ -24,8 +26,7 @@ namespace Assets.Scripts.Cam.Effects {
 		}
 
 		private void Start() {
-			if (!SystemInfo.supportsImageEffects)
-				enabled = false;
+			
 		}
 
         public void Awake()
