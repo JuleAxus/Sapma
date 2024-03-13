@@ -1,0 +1,3083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>19b3240c1d8e079409fff7b5f6adc0b0</guid>
+    <fileName>Assets/plugins/unity-sweeper-main/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1723c0af208f1324892f1249a1ff0a41</guid>
+    <fileName>Assets/plugins/unity-sweeper-main/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6ce75ac50188164e8305a0f2709f3e7</guid>
+    <fileName>Assets/plugins/unity-sweeper-main/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0de4a8ee08b217749ad7d3eb65af02fc</guid>
+    <fileName>Assets/plugins/unity-sweeper-main/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b9099a104bae58240a3ca80de068789c</guid>
+    <fileName>Assets/plugins/unity-sweeper-main/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cf95f74345675ac45a44d1ee8ba5888e</guid>
+    <fileName>Assets/plugins/unity-sweeper-main/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4023836f290602041ae817d747dafa9c</guid>
+    <fileName>Assets/AmbientColor.cs</fileName>
+    <timeStamp>2024-03-10T18:33:03.5885918+03:00</timeStamp>
+    <typeFullName>
+      <string>AmbientColor</string>
+      <string>AmbientColor+Preset</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c8ac00125d2596043a0ac19382159b32</guid>
+    <fileName>Assets/baby.cs</fileName>
+    <timeStamp>2024-03-13T02:57:05.7136831+03:00</timeStamp>
+    <typeFullName>
+      <string>baby</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>160130cea789a684f9308770e01f47e7</guid>
+    <fileName>Assets/coincounter.cs</fileName>
+    <timeStamp>2024-03-11T22:34:23.7337353+03:00</timeStamp>
+    <typeFullName>
+      <string>coincounter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>734c64687defa69418f26c18fc027673</guid>
+    <fileName>Assets/coinscript.cs</fileName>
+    <timeStamp>2024-03-11T22:51:16.5083635+03:00</timeStamp>
+    <typeFullName>
+      <string>coinscript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1bafee200a8ae7e4cbba671308b214ac</guid>
+    <fileName>Assets/dialoguer.cs</fileName>
+    <timeStamp>2024-03-13T02:53:53.4355294+03:00</timeStamp>
+    <typeFullName>
+      <string>dialoguer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3d452560e315bfc4d9cdd80a720d8d8e</guid>
+    <fileName>Assets/gorehead.cs</fileName>
+    <timeStamp>2024-03-13T04:21:42.0159946+03:00</timeStamp>
+    <typeFullName>
+      <string>gorehead</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4bac30b2d53e99a4eb5d7aa9930ca815</guid>
+    <fileName>Assets/GrabandThrow.cs</fileName>
+    <timeStamp>2024-03-13T03:08:21.2007035+03:00</timeStamp>
+    <typeFullName>
+      <string>GrabandThrow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a1e7b7de116b7eb45958e3460417b308</guid>
+    <fileName>Assets/gremlin.cs</fileName>
+    <timeStamp>2024-03-13T02:54:11.5354565+03:00</timeStamp>
+    <typeFullName>
+      <string>gremlin</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6016b13c2cae79246ba009d53e8ac533</guid>
+    <fileName>Assets/gun.cs</fileName>
+    <timeStamp>2024-03-13T03:08:11.5967996+03:00</timeStamp>
+    <typeFullName>
+      <string>gun</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e51c0a0785230b24ea731439b937bc17</guid>
+    <fileName>Assets/hand.cs</fileName>
+    <timeStamp>2024-03-13T01:09:12.4442915+03:00</timeStamp>
+    <typeFullName>
+      <string>hand</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>09496811cb3e76741bf78f6baf0e48d1</guid>
+    <fileName>Assets/RandomizeStuff.cs</fileName>
+    <timeStamp>2024-03-13T04:05:01.6500439+03:00</timeStamp>
+    <typeFullName>
+      <string>RandomizeStuff</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>17faed5d771530543b513cbca4d10047</guid>
+    <fileName>Assets/SetTerrainObstacles.cs</fileName>
+    <timeStamp>2024-03-11T22:17:33.9865573+03:00</timeStamp>
+    <typeFullName>
+      <string>SetTerrainObstacles</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>181cac8a90be93a4c8df3306fff2658c</guid>
+    <fileName>Assets/thesphere.cs</fileName>
+    <timeStamp>2024-03-13T03:29:12.8738828+03:00</timeStamp>
+    <typeFullName>
+      <string>thesphere</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>743d1ff80337a6c42b5d8790f76af40a</guid>
+    <fileName>Assets/waterreflection.cs</fileName>
+    <timeStamp>2024-03-10T16:46:52.5704375+03:00</timeStamp>
+    <typeFullName>
+      <string>waterreflection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>755fa0840b87a459d8fb6b30550bee6b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/Community ForceShield/ForceShieldDestroyBall.cs</fileName>
+    <timeStamp>2021-01-22T21:46:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e11d4243f9e2848db928a4b55cb026d5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/Community ForceShield/ForceShieldImpactDetection.cs</fileName>
+    <timeStamp>2021-01-22T21:46:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>869dc0621bfc842d6bb38d58e3025f3a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/Community ForceShield/ForceShieldShootBall.cs</fileName>
+    <timeStamp>2021-01-22T21:46:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>431c4242524eb4d13bf66d069874e9d0</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/Community HighlightAnimated/highlightAnimated.cs</fileName>
+    <timeStamp>2021-01-22T21:46:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>470ef217213af9b4091cab562cab2f79</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/Community Volumetric Pixelization/Pixelize.cs</fileName>
+    <timeStamp>2021-01-22T21:46:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>01dc094bb81a51547973c5733d6245f4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/Community Volumetric Pixelization/VolumetricSphere.cs</fileName>
+    <timeStamp>2021-01-22T21:46:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>56ef2d9550612774bbf4ee3f1194345b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/PlaneClip/PlaneClip.cs</fileName>
+    <timeStamp>2021-01-22T21:46:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48e1dd69882f26c48881a90ca1866c40</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/SimpleGPUInstancing/SimpleGPUInstancingExample.cs</fileName>
+    <timeStamp>2021-01-22T21:46:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5cd5adaa55e34f642a4183f01eac6eee</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/Smear/SimpleMoveExample.cs</fileName>
+    <timeStamp>2021-01-22T21:46:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e2d16879b067364792dfabbde4d7d76</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/Smear/Smear.cs</fileName>
+    <timeStamp>2021-01-22T21:46:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e9de35699fb5494478bb9daa2f4eec76</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/TemplateExamples/PostProcess/Sobel/PostProcessExample.cs</fileName>
+    <timeStamp>2021-01-22T21:46:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>96bbfa3e74d5e6d42b817b7db69f749f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Examples/Built-In/TemplateExamples/Sprites/SpriteMask/SpriteMaskController.cs</fileName>
+    <timeStamp>2021-01-22T21:46:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d833dd0968f913f449477da6bcd56b48</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Constants.cs</fileName>
+    <timeStamp>2021-07-12T16:47:11+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f2c950b0ed192943b7484f6b551965f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/DoCreateFunction.cs</fileName>
+    <timeStamp>2021-07-12T16:44:06+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2cfa7290f61ad684f99f8d81328ad52c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/DoCreateShader.cs</fileName>
+    <timeStamp>2021-07-12T16:43:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>44cb06bc7bfe6e84aa8b5e8b702eb2dd</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/EditorOptions.cs</fileName>
+    <timeStamp>2021-07-12T16:44:11+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b4e28cbcd41f3b04ca36fc1b34d2c10f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/PreMadeShaders.cs</fileName>
+    <timeStamp>2021-07-12T16:46:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>29204f353101f46439a93f1c503d3197</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Actions/ActionData.cs</fileName>
+    <timeStamp>2021-07-12T16:43:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc089a69595d8994cb89946a919517c2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Actions/ActionLog.cs</fileName>
+    <timeStamp>2021-07-12T16:46:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>43bd963fa46ee9c4680dacff1d8dc0b9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Actions/ActionSequence.cs</fileName>
+    <timeStamp>2021-07-12T16:44:10+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>508788a7fa76e1d42ad5fdfb1c941ed2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/CustomDrawers/ASEBeginDecorator.cs</fileName>
+    <timeStamp>2021-07-12T16:44:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fdf2e52babbbbf040b3b9f6df50243f3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/CustomDrawers/ASEEndDecorator.cs</fileName>
+    <timeStamp>2021-07-12T16:47:52+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a5504a2b7d04a846978416748dc6e0a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/CustomDrawers/EditableIf.cs</fileName>
+    <timeStamp>2021-07-12T16:45:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e1a000d43a26286499b39a7571e5c61b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/CustomDrawers/NoKeywordToggle.cs</fileName>
+    <timeStamp>2021-07-12T16:47:22+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>314af1bcecbba6c4d92cbb5843c221ba</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/CustomDrawers/RemapSliders.cs</fileName>
+    <timeStamp>2021-07-12T16:43:49+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a724dcf5c5ddef40bcef06f0b2c8ec0</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/CustomDrawers/RemapSlidersFull.cs</fileName>
+    <timeStamp>2021-07-12T16:46:05+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>85da32683d237ac4f8665251e2ac38dc</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/CustomDrawers/SingleLineTexture.cs</fileName>
+    <timeStamp>2021-07-12T16:45:42+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6344917ce0eed6b43840632b98a2ed57</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Graphs/NodeGrid.cs</fileName>
+    <timeStamp>2021-07-12T16:45:01+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0b814c2a3cbebc047a566a92ed9d4340</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Graphs/ParentGraph.cs</fileName>
+    <timeStamp>2021-07-12T16:43:12+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c8bcac0d66f920e49803925a85beb0ed</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/AmplifyShaderEditorWindow.cs</fileName>
+    <timeStamp>2021-07-12T16:46:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>78b2425a2284af743826c689403a4924</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/AmplifyShaderFunction.cs</fileName>
+    <timeStamp>2021-07-12T16:45:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b2d6d1320661374db53aeb8057312b2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/AmplifyShaderFunctionEditor.cs</fileName>
+    <timeStamp>2021-07-12T16:45:50+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>711db07e8265cb740940568c4bc7345f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/AutoPanData.cs</fileName>
+    <timeStamp>2021-07-12T16:45:15+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8850a8c4f3ca99f42bbf602c671ffb7f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Clipboard.cs</fileName>
+    <timeStamp>2021-07-12T16:45:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>291cb40a04f835a4d89037cf3053c6a3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/ConfirmationWindow.cs</fileName>
+    <timeStamp>2021-07-12T16:43:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ed706353a579cbb46b300406107108b1</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/ConsoleLogWindow.cs</fileName>
+    <timeStamp>2021-07-12T16:47:35+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>417f409230c530b468b8ab67dd6e3b8b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/ContextMenuItem.cs</fileName>
+    <timeStamp>2021-07-12T16:44:07+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>79d0d783b532b474192b191547bee1c1</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/CustomStylesContainer.cs</fileName>
+    <timeStamp>2021-07-12T16:45:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52308890136cd7746a5a073c9be8f028</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/DebugConsoleWindow.cs</fileName>
+    <timeStamp>2021-07-12T16:44:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>41c9bd09aea1377459c7e62910711c22</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/DragAndDropTool.cs</fileName>
+    <timeStamp>2021-07-12T16:44:07+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a4cfbb4204c63ca4e8f7cec73f6b3ef8</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/DuplicatePreventionBuffer.cs</fileName>
+    <timeStamp>2021-07-12T16:46:13+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5c34fc95a1ddd7d42bc74151061035f4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/GraphContextMenu.cs</fileName>
+    <timeStamp>2021-07-12T16:44:52+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5d535d3799a3ef547aea607fdc8b947b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/MenuParent.cs</fileName>
+    <timeStamp>2021-07-12T16:44:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d09f21096aa7c9f438e91a6e7f2621fb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/NodeParametersWindow.cs</fileName>
+    <timeStamp>2021-07-12T16:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bfbc736093c900c418a7668e3003663a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/NodeWireReferencesUtils.cs</fileName>
+    <timeStamp>2021-07-12T16:46:42+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>20dad8f4196f0e643a9c56d1202e74dc</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/PortLegendInfo.cs</fileName>
+    <timeStamp>2021-07-12T16:43:32+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>708e90c98affcb04aa2fcfedf4329a7c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/SceneSaveCallback.cs</fileName>
+    <timeStamp>2021-07-12T16:45:14+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>672d96e3a4f68d44f9456d2fc53d4d73</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/ShaderEditorModeWindow.cs</fileName>
+    <timeStamp>2021-07-12T16:45:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cbdd03f297692584391b9dc0625a80ed</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/ShaderLibrary.cs</fileName>
+    <timeStamp>2021-07-12T16:46:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15597b146a1fc154abd63ac75cffb73f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/ContextPalette.cs</fileName>
+    <timeStamp>2021-07-12T16:43:19+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>df4c2f840dca60a4cb118325ce2febfa</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/PaletteParent.cs</fileName>
+    <timeStamp>2021-07-12T16:47:19+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc4f137f15efe1d42b7bcbf984ec1545</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/PalettePopUp.cs</fileName>
+    <timeStamp>2021-07-12T16:46:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>63408b264ef8cb346a5ce9e559a5ed22</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/PaletteWindow.cs</fileName>
+    <timeStamp>2021-07-12T16:45:00+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>890f4ed5c9f62af43bda6584705fa0be</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsMenuButton.cs</fileName>
+    <timeStamp>2021-07-12T16:45:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a3bf3644c2c2fbb4fa0dd8b86effc6e1</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsMenuButtonParent.cs</fileName>
+    <timeStamp>2021-07-12T16:46:11+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b4c65a9d96791c34eb587cea9662161f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsMenuButtonSep.cs</fileName>
+    <timeStamp>2021-07-12T16:46:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b1c1f3bedf849cb41a1648bf895bc0f7</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsWindow.cs</fileName>
+    <timeStamp>2021-07-12T16:46:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8c6dccc523e2ad440a82edd582b84a45</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackColor.cs</fileName>
+    <timeStamp>2021-07-12T16:45:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a957e66c7a41d6848966d526c9687347</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackFloat.cs</fileName>
+    <timeStamp>2021-07-12T16:46:17+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>09c28ab321caf3b47839606e37d3cdd2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackInt.cs</fileName>
+    <timeStamp>2021-07-12T16:43:10+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48af68670bdba9147b4ed55138e4edf6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackMatrix4x4.cs</fileName>
+    <timeStamp>2021-07-12T16:44:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc2e25b7c55e9284699ccad75e79a075</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackString.cs</fileName>
+    <timeStamp>2021-07-12T16:46:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>309e413cfa89510429c67fa82c557da7</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackTexture.cs</fileName>
+    <timeStamp>2021-07-12T16:43:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ec850a4093c249d449f22e0483040b9c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVariable.cs</fileName>
+    <timeStamp>2021-07-12T16:47:33+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ab3a976b3cb79ad41986d2f7d4439642</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVector2.cs</fileName>
+    <timeStamp>2021-07-12T16:46:19+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e681455d27d2264fbc2683a1510df2c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVector3.cs</fileName>
+    <timeStamp>2021-07-12T16:43:13+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4e23c25f035ba604ea999f214c0a7833</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVector4.cs</fileName>
+    <timeStamp>2021-07-12T16:44:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b0dda023474c6e41a39c36e48af72b2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Native/IFallbackVars.cs</fileName>
+    <timeStamp>2021-07-12T16:45:50+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>08f1d9c1d8cbe5841a6429d565096eab</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/CommentaryNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:10+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6fdecc48f5be618428240490565e9d8b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/CustomAddNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:13+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c89fd369755de3e49a669e8e5daa8c2f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/CustomNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:55+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>36f40ed0b172d8f45810b3f6b8e2243d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/DrawInfo.cs</fileName>
+    <timeStamp>2021-07-12T16:43:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5b60c440b5db81c4d9df9c048aa22b48</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/DynamicTypeNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:51+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cfeab503d3318794ea1af322505320ef</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ISignalGenerator.cs</fileName>
+    <timeStamp>2021-07-12T16:47:03+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ec3cfdc3a4d1a7a4cb24c1c079e1750a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeAttributes.cs</fileName>
+    <timeStamp>2021-07-12T16:47:33+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bd1aff8475f370d4380918491184aef5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeRestrictions.cs</fileName>
+    <timeStamp>2021-07-12T16:46:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2aa06a21e7f64094c91da5dd60ef35cf</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeUsageRegister.cs</fileName>
+    <timeStamp>2021-07-12T16:43:41+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9eb57a68790e6e343affe131e8a0f860</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeUtils.cs</fileName>
+    <timeStamp>2021-07-12T16:46:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>33e0374f361d5c642a257b9957e4cfa0</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ParentNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>91aad2b9cfaf3954c8c450c32d218981</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ReordenatorNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2f92560b009046f4a86504e682834405</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SignalGeneratorNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:47+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6d517b63dc9604043985eb4a82d2d135</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/StickyNoteNode .cs</fileName>
+    <timeStamp>2021-07-12T16:45:10+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bcc69b2f388d45f43a9157ce814b5aae</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/UndoParentNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b99bcf4cd965c648bbbc1de0d1b152a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ColorNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:21+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>833b18e1479dbd24c80c5b990e16e2bb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/GlobalArrayNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>98100a8a545b8ce42bc5657fd40a24a5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/GradientNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:03+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>86df2da3da3b1eb4493b968b47030b17</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/IntNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>01e5a5829caac674fa819ed229de31b6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Matrix3X3Node.cs</fileName>
+    <timeStamp>2021-07-12T16:43:02+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4fa5db614b9379b4da27edafa0a8f4e9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Matrix4X4Node.cs</fileName>
+    <timeStamp>2021-07-12T16:44:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d31dc25864c509a4f967e32079a27d6f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/MatrixParentNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:07+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a8a03953b97a594b81b2fb71d4a57ec</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/PiNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5bbfd66571b12f84983b398231271694</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/PropertyNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:52+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e81453c5ad3b8224db874b56bf00cad2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/RangedFloatNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b1d1a233ea65ccd478fb6caf4327da48</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/StaticSwitch.cs</fileName>
+    <timeStamp>2021-07-12T16:46:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a6ded4f5e42f6d4684a6131a3cf4d33</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/TauNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3c5be6f9c03445d4fb70955f594877dc</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/TextureArrayNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:03+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ca8f5d67cf4c5f428a6dd646099897c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Vector2Node.cs</fileName>
+    <timeStamp>2021-07-12T16:45:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>943f4b4fc1fa5214b8934bf4fb76474b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Vector3Node.cs</fileName>
+    <timeStamp>2021-07-12T16:45:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3bc3c79c7cc57df49bedb9d9b64b0bea</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Vector4Node.cs</fileName>
+    <timeStamp>2021-07-12T16:44:02+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>266391c3c4308014e9ce246e5484b917</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/ConstantShaderVariable.cs</fileName>
+    <timeStamp>2021-07-12T16:43:35+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9102c0b554fd5ad4785acf870dcc17eb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/ConstVecShaderVariable.cs</fileName>
+    <timeStamp>2021-07-12T16:45:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1eb723e6ceff9a345a9dbfe04aa3dc11</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/ShaderVariablesNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:30+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f776bdd36b750304c8e0de8ee1f31fc0</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/CameraProjectionNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e5a9a010f1c8dda449c8ca7ee9e25869</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/CameraWorldClipPlanes.cs</fileName>
+    <timeStamp>2021-07-12T16:47:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f9431cdf8e81c1d4f902b3fa7d04f7ac</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/OrthoParams.cs</fileName>
+    <timeStamp>2021-07-12T16:47:47+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba1ca8bace2c2dd4dafac6f73f4dfb1b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/ProjectionParams.cs</fileName>
+    <timeStamp>2021-07-12T16:46:34+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e593f23857d59643b5b5f6dd6264e1b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/ScreenParams.cs</fileName>
+    <timeStamp>2021-07-12T16:43:47+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>972d92a6008896f4292a61726e18f667</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/WorldSpaceCameraPos.cs</fileName>
+    <timeStamp>2021-07-12T16:46:01+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2765a41106f478f4982e859b978bdec4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/ZBufferParams.cs</fileName>
+    <timeStamp>2021-07-12T16:43:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e2bdfc2fa6fcd0640b01a8b7448a1a11</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/FogAndAmbient/FogAndAmbientColorsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a3d8c31159e07bc419a7484ab5e894ed</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/FogAndAmbient/FogParamsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:11+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>78916999fd7bc3c4e9767bc9cf0698c0</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/CustomStandardSurface.cs</fileName>
+    <timeStamp>2021-07-12T16:45:23+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>11bf17b0757d57c47add2eb50c62c75e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/IndirectDiffuseLighting.cs</fileName>
+    <timeStamp>2021-07-12T16:43:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0820850e74009954188ff84e2f5cc4f2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/IndirectSpecularLight.cs</fileName>
+    <timeStamp>2021-07-12T16:43:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4e205b44d56609f459ffc558febe2792</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/LightAttenuation.cs</fileName>
+    <timeStamp>2021-07-12T16:44:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>275270020c577924caf04492f73b2ea6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/LightColorNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>db94d973647dae9488d3ef5ee2fd95a4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/WorldSpaceLightPos.cs</fileName>
+    <timeStamp>2021-07-12T16:47:15+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>447e504f2ca5aaf4bbf0fdbce33596bc</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/CosTime.cs</fileName>
+    <timeStamp>2021-07-12T16:44:11+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3ddde7ed1ab4f8044a9a6aa3891f5ca4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/DeltaTime.cs</fileName>
+    <timeStamp>2021-07-12T16:44:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f36e4491ee33fe74fa51cfb5ad450c6e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/SimpleTimeNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>796acd44fcf330e4e921855630007b9b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/SinTimeNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d8c6b7bfb7784e14d8708ab6fb981268</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/TimeNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:12+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6accfe0f350cf064dae07041fe90446b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/CameraToWorldMatrix.cs</fileName>
+    <timeStamp>2021-07-12T16:45:06+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0fdbc380972c44b489c5f948a40b8e69</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/InverseProjectionMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:15+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a71f1e560487aa4c8484c4153941884</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/InverseTranspMVMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd0c1c252c062184e9ad592b91e7fcd2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/InverseViewMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:17+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f6f151774e252dd4fb2b9ee440ec8eed</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/InverseViewProjectionMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>503a386043991354eaca2410683d836a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/MMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>30c7936db4e6fe5488076d799841f857</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/MVMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74e00fb3d8e161f498c078795184bae4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/MVPMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:18+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a0c0180a327eba54c832fbb695dd282f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ObjectToWorldMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:10+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>008fd07cf3f9a7140a9e23be43733f7c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ProjectionMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:01+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f57a1d05f7a9c5847912566ff1605c6d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture0MatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9ef360a7c6005ad479d7a3e6db1d32f4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture1MatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6cf4950dda0f6e6438ace404fbef19a7</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture2MatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>02a9fb7a3a104974e941f4109567b97f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture3MatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:02+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5088261e4c0031f4aba961a253707b80</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/TransformDirectionNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>274dde08d42e4b041b9be7a22a8c09d6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/TransformPositionNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>04aad5172ee1d4d4795e20bfae0ff64d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/TransformVariables.cs</fileName>
+    <timeStamp>2021-07-12T16:43:05+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5762b195353d629448631bfb15fb8372</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/TransposeMVMatrix.cs</fileName>
+    <timeStamp>2021-07-12T16:44:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6095e3e4dc186f146bc109813901ccc8</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/UnityProjectorClipMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c3efd02b48473d94b92302654b671ddc</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/UnityProjectorMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:49+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>28a04286716e19f4aa58954888374428</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/UnityScaleMatrix.cs</fileName>
+    <timeStamp>2021-07-12T16:43:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5aa75cc5e6044a44a9a4439eac1d948b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ViewMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:50+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fe26c99932382e047aebc05b7e67a3d0</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ViewProjectionMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:52+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>584bea5554dc1b64c8965d8fcfc54e23</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/WorldToCameraMatrix.cs</fileName>
+    <timeStamp>2021-07-12T16:44:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d9e2a5077cc29de439d5c845eac35a04</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/WorldToObjectMatrix.cs</fileName>
+    <timeStamp>2021-07-12T16:47:13+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b598d9ebc2d7be44a97270732f55f9bc</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/WorldToTangentMatrix.cs</fileName>
+    <timeStamp>2021-07-12T16:46:31+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7d1204234983b3c4499da752961185be</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/ColorSpaceDouble.cs</fileName>
+    <timeStamp>2021-07-12T16:45:31+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b4a6f07436b05a4cbc2559e4e704000</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/FaceVariableNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:19+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c449923583a9fbe4283acebc97756ea1</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/InstanceIdNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:50+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f96cf34c2936c96458403e9cf75e8e10</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/LODFadeNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd0af9fbbba750341a7b09316178f285</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/PrimitiveIdVariableNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0464d8b27caa7d4d8fa5d1828934da8</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/SwitchByFaceNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ce37a30cae7677942ad44f0945ab7b77</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/VertexIdVariableNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:02+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aec376443deca354789bc36ba18af898</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/WorldTransformParams.cs</fileName>
+    <timeStamp>2021-07-12T16:46:22+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>96f38a9f14906ca49b505b8e305c37ec</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/CameraDepthFade.cs</fileName>
+    <timeStamp>2021-07-12T16:46:01+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5fe7f4be962b9e8459eb156503b99d41</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ComputeGrabScreenPosHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c220606396d6e6048a901f217be1435e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ComputeScreenPosHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1cc4e3c718669d54c97614ac6abcfaff</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeDepthNormalNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c5479ff48207cf43a308ec9f110fa9f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeFloatRGBAHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a965812ada2b83343a1f511273fcfc52</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeFloatRGHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:18+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b3d1879d1e402b34f98b8e8cdf94d719</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeLightmapHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>94df47461b7e6244eaf92b0dab7cc7ee</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeViewNormalStereoHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:00+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>279c74ce44e24204d803be6ec743c290</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DepthFade.cs</fileName>
+    <timeStamp>2021-07-12T16:43:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a792f114a5433af499dce78ebe05a9e6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DiffuseAndSpecularFromMetallicNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:17+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>284ebed5f88c13e45bc331b2df93aa75</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DitheringNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cabbbe25e4b26b54c84e27007c08a7dd</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeDepthNormalNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6532496dc1791d94cbb46004000bda61</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeFloatRGBAHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:03+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d8bce5e7063ac6b4d93aaf15f7fd1b10</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeFloatRGHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:12+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>17511ec398441ac479a2dd77d2531837</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeViewNormalStereoHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:21+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cb2775ac410d0134c85b7f1ac0a0399f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/GammaToLinearNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0eba64bdadd330743894a0623677cb83</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/HelperParentNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:13+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a5b8a474628aeca4e86b1599f0b26ebc</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/LinearToGammaNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:14+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8567c2e3eb634a428819fbdfbff110f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/LuminanceHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:30+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0da9baf35c74c7e468cbe50c3d23ccf0</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ObjSpaceLightDirHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:12+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>590b8e54b63ad344f8d8c372e4fc5ed5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ObjSpaceViewDirHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:49+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>96d8f50a7481d5247b16cb16c053d5f6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ParallaxMappingNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:00+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b2350150f3f2a0443827ca8925d5e759</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ParallaxOcclusionMappingNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>83b7d6fe57585b74d80c429aef719200</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ParallaxOffsetHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74f44334b702bce4ba8e2681dc80fe3c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ShadeVertexLightsHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:19+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d3b0855152b8c5d478f236423cfb1959</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/SurfaceDepthNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>396e5bf33f08d3a42a19d7b161f573f2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/TriplanarNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c01e190d996825f42bdc81e1fab5e897</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/UnityObjToClipPosHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5f35cf284cf7d2b47be5a32426fc7a77</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/UnityObjToViewPosHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2134a58fb8235524d84046a051bce6b5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/WorldSpaceLightDirHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:32+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>61d7064bd5523634496fa412627603d7</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/WorldSpaceViewDirHlpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>09fb0867c2a616c488bad8929f4f7ad7</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/BlendOpsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:11+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eddae0a124877fc47b28ae8853286174</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/DesaturateOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3d992a68cff329a4a9bd1deb999fe691</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/HSVToRGBNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c5f40d01acf184946b8660599f33109f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/LuminanceNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:51+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6b82a8d1dffe4204fa03a09e2fe783b3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/NoiseGeneratorNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7dc4667cd643835489312daa244a03b9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/PosterizeNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:33+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d24b838adbc80d4cb63e3fc4f5a1c79</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/RGBToHSVNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:23+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f49defa61805f948a04775d391e507a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/SimpleContrastOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:06+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f888e3dadb5df94199547ab13cb74d2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/SimplexNoiseNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:06+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32d7b01a9f453d448abf3685a35c4a19</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/TFHCGrayscale.cs</fileName>
+    <timeStamp>2021-07-12T16:43:52+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a3f99c25e876b164789b7612a63ec748</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/VoronoiNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:12+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ab308ada4f120144b8d44aef5c834fe6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/Compare.cs</fileName>
+    <timeStamp>2021-07-12T16:46:19+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3deb719c04d269e49bcd2a2c365da6fb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/ConditionalIfNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:05+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>04eb50f45d1416e4bb61902a49f06d58</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/KeywordSwitchNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:05+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d6d04219b3c5c5a4282aa9a763b9ad3c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareEqual.cs</fileName>
+    <timeStamp>2021-07-12T16:47:10+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ff04934859005cd41ac644f2a9349e8b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareGreater.cs</fileName>
+    <timeStamp>2021-07-12T16:47:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b2792c240940c3349bdef401f5683f70</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareGreaterEqual.cs</fileName>
+    <timeStamp>2021-07-12T16:46:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a70dcf76fe65a64ca70400d6d08563d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareLower.cs</fileName>
+    <timeStamp>2021-07-12T16:43:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e1e66ddf48770134b806dd1f397e4ac3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareLowerEqual.cs</fileName>
+    <timeStamp>2021-07-12T16:47:23+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48f885e2f5fa775409b9f50be6aaf80a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareNotEqual.cs</fileName>
+    <timeStamp>2021-07-12T16:44:17+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7d30ad11b781804ebd54834781a32d9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareWithRange.cs</fileName>
+    <timeStamp>2021-07-12T16:47:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a3d561a45c21114c99f52c5432b25e9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCIf.cs</fileName>
+    <timeStamp>2021-07-12T16:43:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>67238b98f61049c45b496af625863edf</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCStub.cs</fileName>
+    <timeStamp>2021-07-12T16:45:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0801a5994efb46142ad8dcc0fe3c47f8</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/AdditionalDefinesHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74ff3d342e013f64198aaf767e623962</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/AdditionalIncludesHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:45:19+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3153b4d10effd174988d75b84b12d281</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/AdditionalPragmasHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:49+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d830b2cc8bc5e174485077319135fc1e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/AdditionalSurfaceOptionsHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:47:11+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>837b906a268babc49ac733573c5b3394</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/BillboardOpHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:45:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b59649a5f829e24cb4de8c1a715f8b4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/BlendOpsHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:45:51+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a47d8101acb2e94d95016b69a1c2e41</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/CodeGenerationData.cs</fileName>
+    <timeStamp>2021-07-12T16:45:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bf65efd881afd1b4cbd2b27f3f17251b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/ColorMaskHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:46:41+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5ed32be99aefda24483c9e3499a5cd23</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/CustomTagsHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:44:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2daff2983fe91ac43953017a8be984a7</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/DependenciesHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cd5a03cee1255ba438e2062d215b70b6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FallbackPickerHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:47:00+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>64064ea01705e084cbe00a3bbeef2c3d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionInput.cs</fileName>
+    <timeStamp>2021-07-12T16:45:01+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7b3de46feda5b0f4ea58c852c4a521a9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6293b1f56d13d6c4ca6a8e2a8099cca9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionOutput.cs</fileName>
+    <timeStamp>2021-07-12T16:45:00+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>97d5e0cd26200a64fa9d127599406008</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionSubtitle.cs</fileName>
+    <timeStamp>2021-07-12T16:46:03+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2bd66b9ffd0acf84ab46c9f83300495c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionSwitch.cs</fileName>
+    <timeStamp>2021-07-12T16:43:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84a4868e0b1e8dd4bb0e71c8d9a9c130</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionSwitchByPipeline.cs</fileName>
+    <timeStamp>2021-07-12T16:45:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3b0e734d4c354c74999e20ce054628d2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/LogNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:01+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7fc2c839ab9f3a045877b59493c51502</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/MasterNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:34+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d026d775ff431f34789437db3fb4abbb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/MasterNodeDataCollector.cs</fileName>
+    <timeStamp>2021-07-12T16:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d0900a4b7d1563e49b6184d7579dcbec</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/OutlineOpHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ed0ee3a73f11f344495d16b54bb3af29</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/OutputNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:34+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>26d840af03d4f7b418e9c7bece143648</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/RenderingOptionsOpHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>50a1f03b042823f469cef7d97c73fdc3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/RenderingPlatformsOpHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:44:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>59e61f9559385a94a87d4d37dbd556f0</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/StandardSurface.cs</fileName>
+    <timeStamp>2021-07-12T16:44:50+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0111d524dc809f14aa95e4e1ab93d37b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/StencilBufferOpHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:01+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>935c69709205e1c4dbd54da410518cc6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/TerrainDrawInstancedHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:45:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c6fbad94b0fc6b948be3a3dc61232c05</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/TessellationOpHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:46:52+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d818a147712609646b8d6f0f7c2ae731</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/UsePassHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:47:10+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f35a3e26a28596b4f9b54a1f2689db06</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/ZBufferOpHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:47:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>688412c534df41444ad49759fa2b6a62</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/AppendNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a74e2c0a9306c0048bfcc733cb7d154d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/BreakToComponentsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f2507a764c07082458e350211d671334</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/CustomExpressionNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc524cd13743b6f49a2e331767646448</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/DynamicAppendNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>91955bc593b0dc14d90b10cb3eb25355</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/FresnelNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>efce529ed3c74854b9d0cece836991c3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/GetLocalVarNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>90801da82a0b4f74cae2f9387bd5ad92</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/LayeredBlendNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:55+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b8af65130c9ed64f95976ec67ac1adf</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/LinearDepthNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:51+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a313774cf0e4d1e4289d7395e8e49067</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/MatrixFromVectors.cs</fileName>
+    <timeStamp>2021-07-12T16:46:11+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7c7321a370f1f1b499d4655cc25f457b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/PosFromTransformMatrix.cs</fileName>
+    <timeStamp>2021-07-12T16:45:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ebd1a3b3014ccdd40b8fa805b4281c6f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/RegisterLocalVarNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:32+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef679ba7cdeda594aa3e5c02b25e66df</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/RelayNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6190b6c1a4cd29b48bfd36ff9b2ea773</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/RotateAboutAxisNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>da71cf021d98a7f468319e56eaefe6f1</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/SummedBlendNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:14+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad88ed9f1b6010a4bb17685dec17a585</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/SwitchNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:22+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3bb41488b4b3e034d838c73c2eb471f5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/SwizzleNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:02+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c7f6ffd9a8c958e449321777764784de</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/ToggleSwitchNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:55+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>31c07015a5f2aa44297aa7cfb80ffdd5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/VectorFromMatrixNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:50+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35c70c67524c86049a25b7ebd0de6ae3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/WeightedAvgNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:55+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b91b2aefbfad5b444b25320e9ed53cac</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/WeightedBlendNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:34+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a566d6bf220cd74b8385a91f690b683</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/WireNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>545417ad304cea84b9f625a3b6ad4e56</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/Transformation/ObjectToWorldTransfNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:42+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>11f04432b7f1ffb43b584adb226614c6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/Transformation/ParentTransfNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8a25ccf8973bfae46ae3df2823f58229</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/Transformation/WorldToObjectTransfNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46aea6c13d71ec74da7f23abba3704d6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/AbsOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:14+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8238f389c28938544b56035531b3f1be</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ACosOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>268ebf76d03c2e84f8c80a375773b46c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ASinOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:35+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f5957d9ac2cc12146bc862cd0c92815a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ATan2OpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d84f7e90e793aaa4891b4c1fe400dc4c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ATanOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:11+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>555db3754f84db947846519630ea303b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CeilOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5d7101830aa0c524f9519fef95c90dc3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ClampOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>78e9954f4d587b74fa38ae1dd9922d77</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ClipNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>85082b6932d1c9a4f8b64605534ef118</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ComponentMaskNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:41+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2b50a187f488a004aaa2dabbe558ab3a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CoshOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ee9c446e7e41d524f8b4c93e6a8886c5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CosOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>283bc0645ce925346b33c024ff5a7dad</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CrossProductOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e14c4a7c0be9f146ac912130c280b15</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DdxOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>722a2ad531fefdc4d8782d5c7cdfd012</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DdyOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3d88a21f3ece742408c7748897a21c79</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DegreesOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e5cded78687f09442895bc96cc5b683d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DeterminantOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b8bd7fecbc728f4b89d398cef86ada8</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DistanceOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:19+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c2bf0375fb75ce245b2f30857a111972</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DotProductOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a9881734e0217bc45bb422dc83f6ee1a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/Exp2OpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:18+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>81ef96bc69f897d4e8bc21e2731e065f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ExpOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>176154e86c6c3544fab0d67e098c645d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FloorOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:21+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>599ae67e52ac45f46acc0efd9285b97c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FmodOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:49+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd6da00dbcdf3d04cb35a61cda01ae77</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FractNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:51+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e17448829221b04bb3185bef727b19f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FWidthOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b90e416e2fa93a249952fabc78f659c8</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/GradientSampleNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:33+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>785830160e033d24280df9c5b4cec368</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/InverseOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:23+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bb3fd570e41cfa24d93b53e80eac02d5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/LengthOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:35+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e38abf6e3c7dfa409a5fe40d2ce8a19</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/LerpOp.cs</fileName>
+    <timeStamp>2021-07-12T16:43:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>be47a76f1f42fbe47bf2568584c31196</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/Log10OpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b9489308aad1f794982afc1faf646013</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/Log2OpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:34+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1ed2c12cea61a8c4fa67eebdc10d2a2a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/LogOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:30+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8804c7e5888738547b5a704f788fc18b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/MultipleInputOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>01c91005470f6b94eba168a127cecd6c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/NegateNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:02+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fa6682c371754094f88b3c2a7e96ae26</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/NormalizeNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:49+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>727743b66e17d7b4f9c2fbe7dde98bd9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/OneMinusNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>520a55839e863ce47b3558be612f4691</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/PowerNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:30+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b6ca01d5c16f73c42996318c140eddb7</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RadiansOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:32+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bcd77715f8db1564abc96d502312d476</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ReflectOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c5bb608b83cdc894cab572c72baa5f84</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RefractOpVec.cs</fileName>
+    <timeStamp>2021-07-12T16:46:51+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f7b5f29bc7f6bb844ae4ea698404adc3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RoundOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>513de50bd4766d0448bb471ca272608f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RSqrtOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d56f68d94c889443af651140ef86948</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SaturateNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:06+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b594feaa69ad03449b563f834fe0c18e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ScaleAndOffsetNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:31+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ec926b11f9c698c458f746e4e55fd7df</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ScaleNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:33+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>429f407c2b590df45b215f0edfa49b97</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SignOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f186e1b03a8ee2b4b9e45918576e8cf6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SimplifiedFModOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ed03e964ff9aa274cbf392769b61170b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SingleInputOp.cs</fileName>
+    <timeStamp>2021-07-12T16:47:34+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52092e3985c556943895f86c585bcd25</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SinhOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:30+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>be2a11b08ee8cbb458dbcc4c1a61ad1b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SinOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0f64eb769f843a349a0d249beacc6fc3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SmoothstepOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:14+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4820b591b73a7fe4ab13261deebf76f7</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SqrtOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:15+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c4305e64271097249a198b2e8aed3046</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/StepOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:49+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>792e48b83a6387a4d826d6445417372f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TanhOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>535b4367719ca2146bb7ddac217dad94</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TanOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>637508d44a97b5449a3d7223c461e58c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TFHCRemapNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:01+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>928c21155a9c1a74b953da2d24269035</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TransformVectorOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba1613dad4af0da4b9f4619b90916cbf</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TransposeOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:34+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5f78e9a796a94d54482caa15d4971feb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TruncOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:55+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>97be7adea7b8ae44c9bebb753277e0c2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/VariablePortTypeOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:02+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ca9162ab6c708f40bbc21f0c22909fa</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleAddOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e80e305761a1e6c4898e401a64b17f84</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleDivideOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4ea5a2904ca58164086eeb8ef3084ed2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleMaxOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1b19c8479d7a7a9458a6f556bf6545d5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleMinOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>647081578ac7f014d98090d36b5b1bc8</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleMultiplyOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:02+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5785c326a26d2ba4ab642fc2bdd41e9a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleRemainderNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>204f935dafd0a984297e242583de1da5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleSubtractOpNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:31+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6aacdecbe4e41f44988580058f7e0000</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SRP/BakedGINode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:06+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8245233e0833c884b8a176943d80514b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SRP/MaterialQualityNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d6b42642ffce2754fba2cf8305e1da68</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SRP/HD/HDEmissionNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>391a18455087a034bb4c09be42caa46a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SRP/URP/ReflectionProbeNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ee44f086d7aa7804ea035860c5735cfb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ColorInputsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>47af62ad6a29d1b409d526d352b5e677</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/GrabScreenPosition.cs</fileName>
+    <timeStamp>2021-07-12T16:44:15+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2528fbf85b5823a4499871c2a6eecc0a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/LocalVertexPosNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:34+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b266c7cca236bcb469d6d4f13df55df5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ScreenColorNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52266d8a6f7f4fe428dcee2ddb0514ac</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ScreenDepthNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32cea8ff65efa3844a0047477ec789da</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ScreenPosInputsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:52+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>71628885b2fde0944bf7dd8e4eb2770f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/SurfaceShaderINParentNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:15+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a23decd88779d24f9af6ae30c3d5a5f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/TexelSizeNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>73fb18e7d547d514695cb0b83a29f80e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/UVCoordsParentNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:18+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4755b85e957e31d4b96d341070b156b5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ViewDirInputsCoordNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:14+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>891e3ffa10c12c54e83a1e40df03df2f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldNormalInputsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:47+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d61a084db19701c4fb3030ee953ac509</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldNormalVector.cs</fileName>
+    <timeStamp>2021-07-12T16:47:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>850bb0065928b7f499b869b8adc1ce5c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldPosInputsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:41+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bd82e1d90bd90fc4d924e97e5fdcc7de</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldReflectionVector.cs</fileName>
+    <timeStamp>2021-07-12T16:46:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e4f39f3a52f10644392decce9d1e6790</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldReflInputsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eceb6029efe39524d83b45c10a979943</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/BlendNormalsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:34+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b80a218ca12b89948b83d0dee41fc056</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/HeightMapBlendNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:33+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>08ddf1dd61719944b9e50d4bc87c0413</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/PannerNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e228d03a789934a4f90f9587396692e3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/RotatorNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>057d23b232d9c044cbf3f1d0b1a06909</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/SamplerNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:06+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>43b6f20fe0e24ff40bf9f25b001b40d8</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/SamplerStateNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7323b6020278e034b9e4c670cbc61361</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/SubstanceSamplerNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:17+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>872b1da17041cd64482c826cbfd9c8c6</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TextureCoordinatesNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c1210b3dd22dafe418c5a998df2c3443</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TexturePropertyNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4f9ca941b3f5014448e530c761a418d9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TextureTransformNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>38b8c76e7f2dc294581195a669942706</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TFHCFlipBookUVAnimation.cs</fileName>
+    <timeStamp>2021-07-12T16:43:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>72a1a810ace8ea440ba20d4a4f9086ce</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TFHCPixelate.cs</fileName>
+    <timeStamp>2021-07-12T16:45:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad04713692e9f124e86030d792c3e648</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/UnpackScaleNormalNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:22+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bacb12043c5bc504aa49e0a5a9bbc534</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/VirtualTextureObject.cs</fileName>
+    <timeStamp>2021-07-12T16:46:35+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>08fd3dd8f623aca42b7eb9962a89753d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/BillboardNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:10+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>839ecbdfc8ed4fd4d8a08ec07f7159fa</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/BitangentVertexDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c2f0572db8612644b8e7fc2bcd16312b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/BlendIndicesNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cb9d9029b584a7645a3d4aa2b45e34ab</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/BlendWeightsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ca76669baa9fa204b8ce5200eb07c1db</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/ColorVertexDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4c7b60515f9cf6043bf8d03531d268f9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/NormalVertexDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:22+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef1fe46d0cc472e45ad13ac737db2c1e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/ObjectScaleNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>24f267627c002964badad2901309c96a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/OutlineNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:33+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fc77801277f0faf4ca0be33f565b5604</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/PosVertexDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:50+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1f79f23d5c10c9e4fb6a59c1ef70f6fc</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TangentSignVertexDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:31+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b544118f39abfe84581b8249973d52c5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TangentVertexDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:30+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ebd7eb3a7f6149e4e9dacbcda2d8089f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TexCoord1VertexDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:32+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b865968ce22b9d949993e5e60126eb11</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TexCoordVertexDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:33+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ae297dac4e208f4e86c8f7a022fc5bd</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexBinormalNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:49+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6271f602b9ab61e4c9a96a91e473c1e0</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexColorNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:59+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e5f8fa23e49e4be478b283a704459767</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3aca1dfe55df44d4cbaf99d5a40f7470</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexTangentNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:00+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9ecea5c13558ad4499dd4bc558670b8e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexToFragmentNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a83fb450d164d34bb756f46b3f4290e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/DistanceBasedTessNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:50+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b09c64ce2fd06a4cb4036d8cc0f8b2a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/EdgeLengthCullTessNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:18+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>abe3e8fa4d49c9742a95ac801fd14d7d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/EdgeLengthTessNode.cs</fileName>
+    <timeStamp>2021-07-12T16:46:20+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>79c24faef1fec884d937e74bdc9209da</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/TessellationParentNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35a7fdfdb9a6b0048aa322a9fe58a371</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalDefinesHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:55+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c6b57deeb826a674f9715fab4dfb4cb1</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalDirectivesHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:46:51+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0ab4c474dfddce2429da08f56e651ed4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalIncludesHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:11+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5360ba11600eeb44786246ca70212e25</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalParentHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:44:41+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>de89b62c2bd8eec4b915a0decba936fb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalPragmasHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:47:18+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84e56f8cb109deb4da1945562567bf0c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAlphaToMaskModule.cs</fileName>
+    <timeStamp>2021-07-12T16:45:41+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5fc48fb872ce5e74aa913f987a025ea4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateCodeSnippetBase.cs</fileName>
+    <timeStamp>2021-07-12T16:44:55+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e1d9e34bd7946e247aa6d28b2859c6b1</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateColorMaskModule.cs</fileName>
+    <timeStamp>2021-07-12T16:47:23+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dcbce53ba2eeecd4a8f2c7f5f9a43b7a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateCullModeModule.cs</fileName>
+    <timeStamp>2021-07-12T16:47:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b03340e569366ae4dbd502e14c62e225</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateData.cs</fileName>
+    <timeStamp>2021-07-12T16:46:23+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c757602c408f7354b96c2a5eb21662a4</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateDataCollector.cs</fileName>
+    <timeStamp>2021-07-12T16:46:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4e8f3788c7c239042b3cc3d086311227</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateDataParent.cs</fileName>
+    <timeStamp>2021-07-12T16:44:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b12f2516af03f3443b1f2c08c72aa490</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateDBItem.cs</fileName>
+    <timeStamp>2021-07-12T16:46:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>91bbf209a618780459e775d6816a4b06</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateDepthModule.cs</fileName>
+    <timeStamp>2021-07-12T16:45:57+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2b53cc116abb0df45b028f41b8f0305e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateFragmentDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>517aad6764d713946bc566f0a83cd44d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateHelperFunctions.cs</fileName>
+    <timeStamp>2021-07-12T16:44:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0d2e93061ffcbd45b085a61e5000daa</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateIdManager.cs</fileName>
+    <timeStamp>2021-07-12T16:46:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8f700ba5366bcda45beea5c0e2db9f3e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateInterpData.cs</fileName>
+    <timeStamp>2021-07-12T16:45:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4c6ad22d8633c7142ae0237479df76ed</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateLocalVarData.cs</fileName>
+    <timeStamp>2021-07-12T16:44:21+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f708a5bf672ab004a9363a4a71f48f28</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateLocalVarsNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8bbd856408a816448a2686501df37397</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMasterNode.cs</fileName>
+    <timeStamp>2021-07-12T16:45:52+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>da0b931bd234a1e43b65f684d4b59bfb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMenuItems.cs</fileName>
+    <timeStamp>2024-03-06T13:50:00.5634281+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>144af5a201bd97542bf3a483976759db</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateModuleHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:18+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3aaabf1f5cb06414a8be17a89487e10f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateModuleParent.cs</fileName>
+    <timeStamp>2021-07-12T16:44:00+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>122447ac2bc376a448a42a0f5373e63b</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateModulesData.cs</fileName>
+    <timeStamp>2021-07-12T16:43:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4214390aa7f66364bbab454dc15a04ac</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMultiPass.cs</fileName>
+    <timeStamp>2021-07-12T16:44:07+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fce684c26c654d14e927860863cd99dd</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMultiPassMasterNode.cs</fileName>
+    <timeStamp>2021-07-12T16:47:51+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>58e4eb5fc3fed124384eef956c6c3ee1</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMultiPassSwitchNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b21cb297a12ef0a4281213619e3e76bf</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateNodeParent.cs</fileName>
+    <timeStamp>2021-07-12T16:46:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>019dfacde4ed75a41851c7f15f69963f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateOptionsData.cs</fileName>
+    <timeStamp>2021-07-12T16:43:01+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0f32755ee64bb1542ad9598810d9faf9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateOptionsDefinesContainer.cs</fileName>
+    <timeStamp>2021-07-12T16:43:14+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fa2d25bd070cde046876bd1fa77bf116</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateOptionsPort.cs</fileName>
+    <timeStamp>2021-07-12T16:47:49+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>081c72eb35d61c84e9a5c34522c3ff33</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateOptionsUI.cs</fileName>
+    <timeStamp>2021-07-12T16:43:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>389dcf32e61ce9d47b9a92ab691365d3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateOptionsUIHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e6749bf88e2d0f4ab5812f084973f4c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePass.cs</fileName>
+    <timeStamp>2021-07-12T16:43:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1340693b71fe44846bb72eb1035f138d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePassSelectorHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:17+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d5f63490d6402e9488add7cbdfdd6872</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePostProcessor.cs</fileName>
+    <timeStamp>2021-07-12T16:47:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3324f7aa07eb04d42bea8791af66cc15</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateRenderPlatformHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7c88941c5badfb7428059cc3ff0c0df9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatesBlendModule.cs</fileName>
+    <timeStamp>2021-07-12T16:45:30+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>33fdd6a5fbc437a489acf58f5d82885c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderData.cs</fileName>
+    <timeStamp>2021-07-12T16:43:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>33c15b597b8db18499c1b4a76035a552</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderModelModule.cs</fileName>
+    <timeStamp>2021-07-12T16:43:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7d16f1d82f69ac945ac524dd877ce7fe</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderPropertyData.cs</fileName>
+    <timeStamp>2021-07-12T16:45:31+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1579d32d6529f33418f210a5bd730436</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderPropertyNode.cs</fileName>
+    <timeStamp>2021-07-12T16:43:20+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9f0aacdb47cf3b94ebbe9e72af9d3cf1</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatesManager.cs</fileName>
+    <timeStamp>2021-07-12T16:46:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fa41b984209fa624aa1fdea5949d9d59</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatesStencilBufferModule.cs</fileName>
+    <timeStamp>2021-07-12T16:47:49+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4ff24a5a4c92f745a159f247574c07a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateSubShader.cs</fileName>
+    <timeStamp>2021-07-12T16:47:42+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>905b4a4de4a974a489d7a8aac14e4fcb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateTagsModule.cs</fileName>
+    <timeStamp>2021-07-12T16:45:55+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d11e7a9026804bd46962c527fe30d933</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateVertexData.cs</fileName>
+    <timeStamp>2021-07-12T16:47:05+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5eb32f2452052fb43b6b93c9baa8f02f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateVertexDataNode.cs</fileName>
+    <timeStamp>2021-07-12T16:44:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f48de3e34ed250945ba8c16d98b8ca0e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/ASEPackageManagerHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:47:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ccaa3765dae023d4b8657544c1aeef4a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/ASEPPSHelperTool.cs</fileName>
+    <timeStamp>2021-07-12T16:46:58+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3e7433fb42db4d9428571bfcd0da64f3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/ASEStartScreen.cs</fileName>
+    <timeStamp>2021-07-12T16:44:05+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>436dc8bc09773454db57b9fbf799ec9d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/ASETextureArrayCreator.cs</fileName>
+    <timeStamp>2021-07-12T16:44:09+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a1c012872b428594f95e585bd19e5347</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/CustomMaterialInspector.cs</fileName>
+    <timeStamp>2021-07-12T16:46:10+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>641dff721f3c24c4188f01fea49484cb</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/CustomShaderInspector.cs</fileName>
+    <timeStamp>2021-07-12T16:45:02+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>871ecf36e52b267449b9047596793d6f</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/CustomTexture2DArrayInspector.cs</fileName>
+    <timeStamp>2021-07-12T16:45:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d402e3c7d578ee046a5d0826b9a41c27</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/EditorVariablesManager.cs</fileName>
+    <timeStamp>2021-07-12T16:47:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7ab31d77d200c7a4ca43f4bf159de6b3</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/GeneratorUtils.cs</fileName>
+    <timeStamp>2021-07-12T16:45:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>87cfef50a69ad24479fb8b472dac6d6e</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/GenericMessage.cs</fileName>
+    <timeStamp>2021-07-12T16:45:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4f4421f529503243bfef5076ae82512</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/InlineProperty.cs</fileName>
+    <timeStamp>2021-07-12T16:47:41+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c71b815458d61e24184a60dbce19573d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/InvalidDataChecker.cs</fileName>
+    <timeStamp>2021-07-12T16:46:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d39b4c96fb4d7f847b3a21c377d4188d</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/IOUtils.cs</fileName>
+    <timeStamp>2021-07-12T16:47:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f9b3f6c515f0e16469de89d9e22263c5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/NodeExporterUtils.cs</fileName>
+    <timeStamp>2021-07-12T16:47:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d036571a581792b44951e3723aef2c01</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/Preferences.cs</fileName>
+    <timeStamp>2021-07-12T16:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e5a7e5c0308e038448cd1a235bf840ca</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/RectExtension.cs</fileName>
+    <timeStamp>2021-07-12T16:47:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fe831fe9de481bc4b9df1c1142bb9aa5</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/SamplerStateAutoGenerator.cs</fileName>
+    <timeStamp>2021-07-12T16:47:53+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15917e71489c3ca4dbc5fdef9bb37433</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/ShortcutsManager.cs</fileName>
+    <timeStamp>2021-07-12T16:43:20+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>47f91343d4ad12542b3eb9511e2b310c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/TextureArrayCreatorAsset.cs</fileName>
+    <timeStamp>2021-07-12T16:44:15+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>565dc3c9725b0db49b7d5ea17d151682</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/TipsWindow.cs</fileName>
+    <timeStamp>2021-07-12T16:44:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>23e0210afe076544ca92d761094a9119</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/UIUtils.cs</fileName>
+    <timeStamp>2021-07-12T16:43:33+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>89dee7566d97f1847b9fe114e1c9a1a2</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/UndoUtils.cs</fileName>
+    <timeStamp>2021-07-12T16:45:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32dbececad3a67a4fbde694ae50ce82c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/UpperLeftWidgetHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:43:52+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad6ef05d39dc39e42b8bfe0bdb826b7a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/WindowHelper.cs</fileName>
+    <timeStamp>2021-07-12T16:46:22+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84d9a18b60b810c4c894886264a89da0</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Utils/WindowsUtil.cs</fileName>
+    <timeStamp>2021-07-12T16:45:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b52649079e4f9ef488724bd3c72449ed</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Version/About.cs</fileName>
+    <timeStamp>2021-07-12T16:46:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>581602482686da34180d35b169cd357a</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Version/VersionInfo.cs</fileName>
+    <timeStamp>2021-07-12T16:44:47+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7647d2525992b7748a587740fd596977</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Wires/GLDraw.cs</fileName>
+    <timeStamp>2021-07-12T16:45:21+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8199169aaf7f404492a0f2353fb52f9</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Wires/InputPort.cs</fileName>
+    <timeStamp>2021-07-12T16:47:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>82722ce1ba0df314490a9362e503727c</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Wires/OutputPort.cs</fileName>
+    <timeStamp>2021-07-12T16:45:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>499682ec40529f44480d58747ad7ab44</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Wires/WireBezierReference.cs</fileName>
+    <timeStamp>2021-07-12T16:44:17+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4709687a4844c9545a254c2ddbf3ca63</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Wires/WirePort.cs</fileName>
+    <timeStamp>2021-07-12T16:44:14+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>99fb607e60678c44da002d6b694400dc</guid>
+    <fileName>Assets/AmplifyShaderEditor/Plugins/Editor/Wires/WireReference.cs</fileName>
+    <timeStamp>2021-07-12T16:46:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>30401166e247c4225bd91cf8028ae3d3</guid>
+    <fileName>Assets/Bloom/Scripts/Bloom.cs</fileName>
+    <timeStamp>2019-09-02T15:14:21+03:00</timeStamp>
+    <typeFullName>
+      <string>PostEffects.Bloom</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>012a3f10190274832a77da2c54e2bd2c</guid>
+    <fileName>Assets/Bloom/Scripts/BloomCamera.cs</fileName>
+    <timeStamp>2019-09-02T15:14:21+03:00</timeStamp>
+    <typeFullName>
+      <string>PostEffects.BloomCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8efa3f1a836a74c1ea0eb0a41932e538</guid>
+    <fileName>Assets/Bloom/Scripts/BloomQuad.cs</fileName>
+    <timeStamp>2019-09-02T15:14:21+03:00</timeStamp>
+    <typeFullName>
+      <string>PostEffects.BloomQuad</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>128c053d450ec42a2937ccfa7bf40f0f</guid>
+    <fileName>Assets/Bloom/Scripts/RenderTextureExtensions.cs</fileName>
+    <timeStamp>2019-09-02T15:14:21+03:00</timeStamp>
+    <typeFullName>
+      <string>PostEffects.Ext</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd5b137f5b560448bbb4c2b074b6b3e6</guid>
+    <fileName>Assets/Bloom/Scripts/RenderTextureUtils.cs</fileName>
+    <timeStamp>2019-09-02T15:14:21+03:00</timeStamp>
+    <typeFullName>
+      <string>PostEffects.RenderTextureUtils</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>39f8dd1ab1662d34a9b73865e5d32ddc</guid>
+    <fileName>Assets/retro/Scripts/Cam/Effects/ChromaticAberration.cs</fileName>
+    <timeStamp>2024-03-09T17:09:53.7668135+03:00</timeStamp>
+    <typeFullName>
+      <string>ChromaticAberration</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad06e60d35a297149adcc16be5979131</guid>
+    <fileName>Assets/retro/Scripts/Cam/Effects/Dither.cs</fileName>
+    <timeStamp>2019-01-25T19:25:09+03:00</timeStamp>
+    <typeFullName>
+      <string>Assets.Scripts.Cam.Effects.Dither</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2826bca8224422341a729a2e2a7a8567</guid>
+    <fileName>Assets/retro/Scripts/Cam/Effects/Posterize.cs</fileName>
+    <timeStamp>2024-03-09T17:07:09.979975+03:00</timeStamp>
+    <typeFullName>
+      <string>Assets.Scripts.Cam.Effects.Posterize</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>64f9144a767f6d842a42451779fca81c</guid>
+    <fileName>Assets/retro/Scripts/Cam/Effects/RetroPixelMax.cs</fileName>
+    <timeStamp>2019-01-25T19:25:09+03:00</timeStamp>
+    <typeFullName>
+      <string>Assets.Scripts.Cam.Effects.RetroPixelMax</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1ddcc486b25a8b24c9a0ce91edb491c2</guid>
+    <fileName>Assets/retro/Scripts/Cam/Effects/RetroPixelPalette.cs</fileName>
+    <timeStamp>2019-01-25T19:25:09+03:00</timeStamp>
+    <typeFullName>
+      <string>Assets.Scripts.Cam.Effects.PaletteGrading</string>
+      <string>Assets.Scripts.Cam.Effects.RetroPixelPalette</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba54bbb8d59fc1d48a351f7d6a559f82</guid>
+    <fileName>Assets/retro/Scripts/Cam/Effects/RetroSize.cs</fileName>
+    <timeStamp>2024-03-09T17:07:01.8428608+03:00</timeStamp>
+    <typeFullName>
+      <string>Assets.Scripts.Cam.Effects.RetroSize</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c7ad4a8041de6f843b8e6e9f8f30b282</guid>
+    <fileName>Assets/Scripts/MovementSapma.cs</fileName>
+    <timeStamp>2024-03-13T04:17:26.6506191+03:00</timeStamp>
+    <typeFullName>
+      <string>MovementSapma</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
